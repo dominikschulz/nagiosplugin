@@ -1,16 +1,15 @@
 package nagiosplugin
 
 import (
-  "testing"
+	"testing"
 )
 
 func TestThreshold(t *testing.T) {
-  /*
-  var th *Threshold
-  var err error
-  var pat string
-  */
+	/*
+	  var th *Threshold
+	  var err error
+	  var pat string
+	*/
 
-  // TODO add tests
+	// TODO add tests
 }
-
